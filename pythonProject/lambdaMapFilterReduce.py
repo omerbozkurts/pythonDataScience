@@ -40,3 +40,4 @@ from functools import reduce
 listB = [1,2,3,4,5]
 
 print(reduce( lambda a,b : a+b,listB))
+
